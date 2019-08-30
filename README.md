@@ -6,7 +6,7 @@ The goal is to reveal all the hidden letters of the word before number of guesse
 
 For help on this project, please email jandy@uw.edu. 
 
-Thank you to the group of contributers that helped make this project successful:
+Thank you to the group of contributers that helped me troubleshoot as I created this project:
 Joe
 Denis
 Trae
