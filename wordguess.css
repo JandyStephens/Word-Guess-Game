@@ -1,0 +1,12 @@
+body {
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cZQksoRknWSxMSI6mDnqErAl_xuNIxceFH3rW5FSI6Nor00L");
+    background-color: #cccccc; */
+
+    .html { 
+        background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cZQksoRknWSxMSI6mDnqErAl_xuNIxceFH3rW5FSI6Nor00L); no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+}
