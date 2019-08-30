@@ -1,12 +1,20 @@
-body {
-    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cZQksoRknWSxMSI6mDnqErAl_xuNIxceFH3rW5FSI6Nor00L");
-    background-color: #cccccc; */
+body {    background-image: url("https://i.pinimg.com/originals/ab/c2/d6/abc2d6de6f7f47f7aa621afe3a766924.jpg"); 
 
-    .html { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+
+
+    /* .html { 
         background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cZQksoRknWSxMSI6mDnqErAl_xuNIxceFH3rW5FSI6Nor00L); no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
       }
-}
+} */
