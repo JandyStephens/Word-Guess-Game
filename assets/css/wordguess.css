@@ -7,10 +7,9 @@ body {    background-image: url("https://i.pinimg.com/originals/ab/c2/d6/abc2d6d
 
 }
 
-h1,h2,h3 {
+h1,h2,h3,#wordToGuess, #wins, #guessesLeft, #wrongLettersGuessed {
   color: antiquewhite;
 }
-
 
 
     /* .html { 
